@@ -1,0 +1,9 @@
+body {
+  background: url("https://images.pexels.com/photos/414706/pexels-photo-414706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-size: cover;
+}
+
+#head {
+  width: 100%;
+  top: 0;
+}
